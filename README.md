@@ -1,1 +1,1 @@
-# wallat
+# wallet
